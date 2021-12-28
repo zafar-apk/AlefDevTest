@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Images</string>
+    <string name="error_message">Произошла ошибка при загрузке</string>
+    <string name="retry">Повторить</string>
+    <string name="image_description">Элемент списка. Изображение</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description_full_screen">Полноэкранное изображение</string>
+    <string name="description_close_icon">Закрыть</string>
+</resources>
